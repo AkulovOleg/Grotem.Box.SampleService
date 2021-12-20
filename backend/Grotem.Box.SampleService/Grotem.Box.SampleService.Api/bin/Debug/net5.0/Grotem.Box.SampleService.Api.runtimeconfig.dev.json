@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/akulovoleg/.dotnet/store/|arch|/|tfm|",
+      "/Users/akulovoleg/Virto/vc-platform/src/VirtoCommerce.Platform.Web/Modules/hot-module-cart",
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ]
+  }
+}

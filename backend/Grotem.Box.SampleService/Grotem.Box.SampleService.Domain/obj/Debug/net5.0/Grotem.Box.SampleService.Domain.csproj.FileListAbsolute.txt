@@ -1,0 +1,12 @@
+/Users/akulovoleg/Grotem.Box.Service.Sample/backend/Grotem.Box.SampleService/Grotem.Box.SampleService.Domain/bin/Debug/net5.0/Grotem.Box.SampleService.Domain.deps.json
+/Users/akulovoleg/Grotem.Box.Service.Sample/backend/Grotem.Box.SampleService/Grotem.Box.SampleService.Domain/bin/Debug/net5.0/Grotem.Box.SampleService.Domain.dll
+/Users/akulovoleg/Grotem.Box.Service.Sample/backend/Grotem.Box.SampleService/Grotem.Box.SampleService.Domain/bin/Debug/net5.0/ref/Grotem.Box.SampleService.Domain.dll
+/Users/akulovoleg/Grotem.Box.Service.Sample/backend/Grotem.Box.SampleService/Grotem.Box.SampleService.Domain/bin/Debug/net5.0/Grotem.Box.SampleService.Domain.pdb
+/Users/akulovoleg/Grotem.Box.Service.Sample/backend/Grotem.Box.SampleService/Grotem.Box.SampleService.Domain/obj/Debug/net5.0/Grotem.Box.SampleService.Domain.csprojAssemblyReference.cache
+/Users/akulovoleg/Grotem.Box.Service.Sample/backend/Grotem.Box.SampleService/Grotem.Box.SampleService.Domain/obj/Debug/net5.0/Grotem.Box.SampleService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akulovoleg/Grotem.Box.Service.Sample/backend/Grotem.Box.SampleService/Grotem.Box.SampleService.Domain/obj/Debug/net5.0/Grotem.Box.SampleService.Domain.AssemblyInfoInputs.cache
+/Users/akulovoleg/Grotem.Box.Service.Sample/backend/Grotem.Box.SampleService/Grotem.Box.SampleService.Domain/obj/Debug/net5.0/Grotem.Box.SampleService.Domain.AssemblyInfo.cs
+/Users/akulovoleg/Grotem.Box.Service.Sample/backend/Grotem.Box.SampleService/Grotem.Box.SampleService.Domain/obj/Debug/net5.0/Grotem.Box.SampleService.Domain.csproj.CoreCompileInputs.cache
+/Users/akulovoleg/Grotem.Box.Service.Sample/backend/Grotem.Box.SampleService/Grotem.Box.SampleService.Domain/obj/Debug/net5.0/Grotem.Box.SampleService.Domain.dll
+/Users/akulovoleg/Grotem.Box.Service.Sample/backend/Grotem.Box.SampleService/Grotem.Box.SampleService.Domain/obj/Debug/net5.0/ref/Grotem.Box.SampleService.Domain.dll
+/Users/akulovoleg/Grotem.Box.Service.Sample/backend/Grotem.Box.SampleService/Grotem.Box.SampleService.Domain/obj/Debug/net5.0/Grotem.Box.SampleService.Domain.pdb

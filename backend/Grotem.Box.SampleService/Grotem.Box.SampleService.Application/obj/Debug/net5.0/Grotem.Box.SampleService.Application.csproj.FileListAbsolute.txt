@@ -1,0 +1,12 @@
+/Users/akulovoleg/Grotem.Box.Service.Sample/backend/Grotem.Box.SampleService/Grotem.Box.SampleService.Application/bin/Debug/net5.0/Grotem.Box.SampleService.Application.deps.json
+/Users/akulovoleg/Grotem.Box.Service.Sample/backend/Grotem.Box.SampleService/Grotem.Box.SampleService.Application/bin/Debug/net5.0/Grotem.Box.SampleService.Application.dll
+/Users/akulovoleg/Grotem.Box.Service.Sample/backend/Grotem.Box.SampleService/Grotem.Box.SampleService.Application/bin/Debug/net5.0/ref/Grotem.Box.SampleService.Application.dll
+/Users/akulovoleg/Grotem.Box.Service.Sample/backend/Grotem.Box.SampleService/Grotem.Box.SampleService.Application/bin/Debug/net5.0/Grotem.Box.SampleService.Application.pdb
+/Users/akulovoleg/Grotem.Box.Service.Sample/backend/Grotem.Box.SampleService/Grotem.Box.SampleService.Application/obj/Debug/net5.0/Grotem.Box.SampleService.Application.csprojAssemblyReference.cache
+/Users/akulovoleg/Grotem.Box.Service.Sample/backend/Grotem.Box.SampleService/Grotem.Box.SampleService.Application/obj/Debug/net5.0/Grotem.Box.SampleService.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akulovoleg/Grotem.Box.Service.Sample/backend/Grotem.Box.SampleService/Grotem.Box.SampleService.Application/obj/Debug/net5.0/Grotem.Box.SampleService.Application.AssemblyInfoInputs.cache
+/Users/akulovoleg/Grotem.Box.Service.Sample/backend/Grotem.Box.SampleService/Grotem.Box.SampleService.Application/obj/Debug/net5.0/Grotem.Box.SampleService.Application.AssemblyInfo.cs
+/Users/akulovoleg/Grotem.Box.Service.Sample/backend/Grotem.Box.SampleService/Grotem.Box.SampleService.Application/obj/Debug/net5.0/Grotem.Box.SampleService.Application.csproj.CoreCompileInputs.cache
+/Users/akulovoleg/Grotem.Box.Service.Sample/backend/Grotem.Box.SampleService/Grotem.Box.SampleService.Application/obj/Debug/net5.0/Grotem.Box.SampleService.Application.dll
+/Users/akulovoleg/Grotem.Box.Service.Sample/backend/Grotem.Box.SampleService/Grotem.Box.SampleService.Application/obj/Debug/net5.0/ref/Grotem.Box.SampleService.Application.dll
+/Users/akulovoleg/Grotem.Box.Service.Sample/backend/Grotem.Box.SampleService/Grotem.Box.SampleService.Application/obj/Debug/net5.0/Grotem.Box.SampleService.Application.pdb

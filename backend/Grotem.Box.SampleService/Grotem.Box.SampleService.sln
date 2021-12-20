@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grotem.Box.SampleService.Api", "Grotem.Box.SampleService.Api\Grotem.Box.SampleService.Api.csproj", "{8E91D4BA-F9C7-40FB-A162-EA8902571ED8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grotem.Box.SampleService.Application", "Grotem.Box.SampleService.Application\Grotem.Box.SampleService.Application.csproj", "{496C6884-4A8B-4D89-A752-C88C2432861B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grotem.Box.SampleService.Infrastructure", "Grotem.Box.SampleService.Infrastructure\Grotem.Box.SampleService.Infrastructure.csproj", "{512BBED3-0A99-47DB-8F9D-2590978C7C82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grotem.Box.SampleService.Domain", "Grotem.Box.SampleService.Domain\Grotem.Box.SampleService.Domain.csproj", "{749C9299-5C0A-4C3D-A4F4-1EB42E79DEC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E91D4BA-F9C7-40FB-A162-EA8902571ED8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E91D4BA-F9C7-40FB-A162-EA8902571ED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E91D4BA-F9C7-40FB-A162-EA8902571ED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E91D4BA-F9C7-40FB-A162-EA8902571ED8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{496C6884-4A8B-4D89-A752-C88C2432861B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{496C6884-4A8B-4D89-A752-C88C2432861B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{496C6884-4A8B-4D89-A752-C88C2432861B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{496C6884-4A8B-4D89-A752-C88C2432861B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{512BBED3-0A99-47DB-8F9D-2590978C7C82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{512BBED3-0A99-47DB-8F9D-2590978C7C82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{512BBED3-0A99-47DB-8F9D-2590978C7C82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{512BBED3-0A99-47DB-8F9D-2590978C7C82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{749C9299-5C0A-4C3D-A4F4-1EB42E79DEC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{749C9299-5C0A-4C3D-A4F4-1EB42E79DEC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{749C9299-5C0A-4C3D-A4F4-1EB42E79DEC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{749C9299-5C0A-4C3D-A4F4-1EB42E79DEC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
